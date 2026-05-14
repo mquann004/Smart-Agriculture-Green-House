@@ -1,0 +1,6 @@
+xiaozhi/
+# Thư mục build hoặc rác của Arduino IDE
+build/
+*.exe
+*.o
+.DS_Store
