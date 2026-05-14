@@ -459,32 +459,7 @@ Smart-Agriculture-Green-House/
 
 ---
 
-## 🏫 Thông tin đề tài
 
-|  |  |
-|:---|:---|
-| **Tên đề tài** | Hệ thống nhà kính thông minh: Giải pháp tối ưu cho nông nghiệp hiệu suất cao |
-| **Mã đề tài** | 04-SV-2025-VT2 |
-| **Đơn vị** | Khoa Viễn thông 2 – Học viện Công nghệ Bưu chính Viễn thông (PTIT) |
-| **GVHD** | ThS. Nguyễn Quang Sang |
-| **Lĩnh vực** | Công nghệ Internet vạn vật (IoT) & Trí tuệ nhân tạo (AI) |
+
 
 ---
-
-## 📚 Tài liệu tham khảo
-
-1. Espressif Systems – [ESP32 Technical Reference Manual](https://www.espressif.com/en/support/documents/technical-docs)
-2. Arduino – [ESP32 Arduino Core API Reference](https://docs.arduino.cc)
-3. OpenAI – [API Documentation](https://platform.openai.com/docs)
-4. Lakshmanan, S., et al. (2020). *IoT-Based Smart Hydroponic System*. IEEE Access.
-5. Rayhana, R., et al. (2020). *IoT-Based Greenhouse Monitoring*. Journal of Agricultural Informatics.
-
----
-
-<div align="center">
-
-**Được phát triển với ❤️ bởi sinh viên PTIT**
-
-*Nếu dự án hữu ích, hãy cho một ⭐ nhé!*
-
-</div>
